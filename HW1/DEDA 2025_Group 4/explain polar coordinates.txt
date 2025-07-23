@@ -1,0 +1,7 @@
+Polar coordinates are a two-dimensional coordinate system in which each point on a plane is determined by a distance from a reference point (called the pole) and an angle from a reference direction (usually the positive x-axis). In mathematical terms,
+a point in polar coordinates is represented as (r,θ), where r is the radial distance from the pole and θ is the angular coordinate.
+To convert from Cartesian coordinates (x,y) to polar coordinates:
+
+An application of polar coordinates is in physics when dealing with circular motion. For example, 
+if an object is moving in a circle around a point,
+we can describe its position at any given time using the distance from the center of the circle ( r ) and the angle it has swept from a particular starting direction ( θ ).
